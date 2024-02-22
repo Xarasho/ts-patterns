@@ -1,0 +1,1 @@
+// Its purpose is to make an instance (an object) of a class
